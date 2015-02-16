@@ -1,5 +1,5 @@
-#By: Luis Carlos Najera
-#Python 3.4.0(Linux Ubuntu 14.04 Terminal Default)
+# By: Luis Carlos Najera
+# Python 3.4.0(Linux Ubuntu 14.04 Terminal Default)
 #WSQ03
 print("This Program will Add, Sustract, Mutiply and Divide the first number over the second number")
 n1=int(input("Write the First Number "))
